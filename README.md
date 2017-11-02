@@ -1,5 +1,4 @@
-# Mathematics to Computer Science (6.042 MIT)
-##Proof
+# Mathematics for Computer Science (6.042 MIT)
 1. [Proof](https://github.com/farruhx/discrete-math/blob/master/src/math/Proof.java)
 2. [Fermat's Last Theory](https://github.com/farruhx/discrete-math/blob/master/src/math/FermatsLastTheory.java)
 3. [Goldbatch Hypothesis](https://github.com/farruhx/discrete-math/blob/master/src/math/Goldbatch.java)
