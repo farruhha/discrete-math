@@ -7,7 +7,7 @@ public class GCD {
         gcd(899, 493);
     }
 
-    static void gcd(int x, int y){
+    public static void gcd(int x, int y){
         if (y == 0){
             System.out.println(x);
             return;
