@@ -5,5 +5,5 @@
 4. [Euler Theory](https://github.com/farruhx/discrete-math/blob/master/src/math/EulerTheory.java)
 5. [GCD](https://github.com/farruhx/discrete-math/blob/master/src/math/GCD.java)
 6. [Turing Encryption (V1)](https://github.com/farruhx/discrete-math/tree/master/src/math/TuringV1Encryption)
-7. [Pythagoreans Perfect Number](https://github.com/farruhx/discrete-math/tree/master/src/math/PythagoreansPerfectNumber)
+7. [Pythagoreans Perfect Number](https://github.com/farruhx/discrete-math/blob/master/src/math/PythagoreansPerfectNumber.java)
 
