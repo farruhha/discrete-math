@@ -6,4 +6,4 @@
 5. [GCD](https://github.com/farruhx/discrete-math/blob/master/src/math/GCD.java)
 6. [Turing Encryption (V1)](https://github.com/farruhx/discrete-math/tree/master/src/math/TuringV1Encryption)
 7. [Pythagoreans Perfect Number](https://github.com/farruhx/discrete-math/blob/master/src/math/PythagoreansPerfectNumber.java)
-
+8. [Twin Prime Conjecture](https://github.com/farruhx/discrete-math/blob/master/src/math/TwinPrimeConjecture.java)
