@@ -22,4 +22,10 @@ public class EulersTotientThereom {
         }
         return gcd(y, x % y);
     }
+    public static long gcdLong(long x, long y) {
+        if (y == 0) {
+            return x;
+        }
+        return gcdLong(y, x % y);
+    }
 }

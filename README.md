@@ -8,3 +8,4 @@
 7. [Pythagoreans Perfect Number](https://github.com/farruhx/discrete-math/blob/master/src/math/PythagoreansPerfectNumber.java)
 8. [Twin Prime Conjecture](https://github.com/farruhx/discrete-math/blob/master/src/math/TwinPrimeConjecture.java)
 9. [Euler's Totient Theorem](https://github.com/farruhx/discrete-math/blob/master/src/math/EulersTotientThereom.java)
+10. [RSA Algorithm](https://github.com/farruhx/discrete-math/blob/master/src/math/RSAAlgorithm)
