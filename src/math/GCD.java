@@ -4,7 +4,7 @@ public class GCD {
 
     //greatest common divisor by recursion (EUCLID THEOREM)
     public static void main(String[] args) {
-        gcd(899, 493);
+        gcd(135, 59);
     }
 
     public static void gcd(int x, int y){
